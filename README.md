@@ -81,7 +81,7 @@ containing, respectively, the final bullseye parcellation, and the lobar and dep
 ## Modifications in this version
 
 Original code by Gerard Sanroma-Guell (2016)
-Modified by MJ on 2025-05-12
+Modified by Minjae So on 2025-05-12
 
 This version addresses a label precision issue in the original implementation of generate_wmparc().
 When executed without modification, the pipeline may produce incorrect labeling where the temporal and occipital lobes appear merged, due to floating-point imprecision (e.g., label 24 being saved as 23.99999999).
