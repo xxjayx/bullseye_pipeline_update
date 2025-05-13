@@ -2,7 +2,7 @@
 utils.py
 
 Original code by Gerard Sanroma-Guell, 2016.
-Modified by MJ, 2025-05-12.
+Modified by Minjae So, 2025-05-12.
 
 [Purpose of Modifications]
 - Updated deprecated usage of `get_data()` from nibabel to `get_fdata()` 
