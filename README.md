@@ -21,6 +21,7 @@ The internals of the process are explained in [this](https://gsanroma.github.io/
 ## requirements
 - a working `FreeSurfer 6.0.0` installation
 - `Python 2.7` (with packages `nibabel`, `nipype`, `numpy` and `scipy`)
+- We used 'Python 3.12.3' in updated version by Minjae So
 
 ## installation
 
